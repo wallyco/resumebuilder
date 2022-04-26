@@ -1,0 +1,16 @@
+.UserInformation {
+    width: 20%;
+    margin: auto;
+}
+
+legend{
+    text-align: center;
+}
+
+label {
+    padding: 5px;
+}
+
+body{
+    background-color: beige;
+}
